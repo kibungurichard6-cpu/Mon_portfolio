@@ -1,0 +1,21 @@
+body {
+    background-color: #FFFBE4;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 700px;
+    margin: auto;
+    
+}
+
+img {
+    float: right;
+    margin-left: 30%;
+    width: 150px;
+    height: auto;
+}
+
+footer {
+    background-color: burlywood;
+    color: white;
+    float: 50%;
+    
+}
